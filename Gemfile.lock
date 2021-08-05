@@ -186,7 +186,7 @@ main
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
-     
+     jekyll (~> 3.0)
 custom-build
     jekyll-feed (0.13.0)
 
